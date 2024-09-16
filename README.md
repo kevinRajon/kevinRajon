@@ -8,15 +8,13 @@ Je suis en pleine reconversion pour devenir testeur logiciel. Ici, vous trouvere
 - 💼 [LinkedIn](https://www.linkedin.com/in/kevin-rajon-3912b8311/)
 <br/>
 
-🔨 Mes outils :
-   - Selenium
-   - Python
-   - SQL
-   - Postman (API)
+### 🔨 Mes outils :<br/>
+<img src="https://www.svgrepo.com/show/354321/selenium.svg" alt="selenium" width="45" height="45" />   <img src="https://www.svgrepo.com/show/452091/python.svg" alt="python" width="45" height="45" /> <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="45" height="45" /> <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql" width="45" height="45" /> <img src="https://www.svgrepo.com/show/353935/jira.svg" alt="jira" width="45" height="45" /> <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="html" width="45" height="45" /> <img src="https://www.svgrepo.com/show/452210/git.svg" alt="git" width="45" height="45" />
+
 
   <br/>
   
-❤️‍🔥Mes passions:
+### ❤️‍🔥Mes passions:
   - Photographie 📸
   - Jeu video 🕹️
   - Science 🔭
