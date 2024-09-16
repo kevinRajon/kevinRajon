@@ -16,7 +16,7 @@ Je suis en pleine reconversion pour devenir testeur logiciel. Ici, vous trouvere
 
   <br/>
   
-❤️‍🔥Mes passions
+❤️‍🔥Mes passions:
   - Photographie 📸
   - Jeu video 🕹️
   - Science 🔭
