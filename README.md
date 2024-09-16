@@ -9,7 +9,7 @@ Je suis en pleine reconversion pour devenir testeur logiciel. Ici, vous trouvere
 <br/>
 
 ### 🔨 Mes outils :<br/>
-<img src="https://www.svgrepo.com/show/354321/selenium.svg" alt="selenium" width="45" height="45" />   <img src="https://www.svgrepo.com/show/452091/python.svg" alt="python" width="45" height="45" /> <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="45" height="45" /> <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql" width="45" height="45" /> <img src="https://www.svgrepo.com/show/353935/jira.svg" alt="jira" width="45" height="45" /> <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="html" width="45" height="45" /> <img src="https://www.svgrepo.com/show/452210/git.svg" alt="git" width="45" height="45" />
+<img src="https://www.svgrepo.com/show/354321/selenium.svg" alt="selenium" width="45" height="45" /> <img src="https://pbs.twimg.com/profile_images/1095343010265460743/EAWqNQ3V_400x400.jpg" alt="squash" width="45" height="45" />  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="45" height="45" /> <img src="https://www.svgrepo.com/show/452091/python.svg" alt="python" width="45" height="45" /> <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql" width="45" height="45" /> <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="html" width="45" height="45" />  <img src="https://www.svgrepo.com/show/353935/jira.svg" alt="jira" width="45" height="45" /> <img src="https://www.svgrepo.com/show/452210/git.svg" alt="git" width="45" height="45" /> 
 
 
   <br/>
